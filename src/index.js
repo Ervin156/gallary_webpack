@@ -7,3 +7,5 @@ const gallery = new Gallery({
   nav_id: "#navigation"
 });
 gallery.renderList();
+
+alert('Hi bugaga kent');
